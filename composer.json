@@ -45,5 +45,11 @@
     "scripts": {
         "test": "vendor/bin/phpunit",
         "format": "vendor/bin/php-cs-fixer fix"
+    },
+    "repositories": [
+    {
+        "type": "vcs",
+        "url": "https://github.com/jimmyjetter27/laravel-ussd"
     }
+]
 }
