@@ -1,6 +1,6 @@
 {
-    "name": "sparors/laravel-ussd",
-    "description": "Create ussd with ease",
+    "name": "jimmyjetter27/laravel-ussd",
+    "description": "Create USSD with ease",
     "license": "MIT",
     "authors": [
         {
@@ -14,8 +14,8 @@
             "homepage": "https://sparors.github.io"
         }
     ],
-    "homepage": "https://github.com/sparors/laravel-ussd",
-    "keywords": ["Laravel", "Ussd"],
+    "homepage": "https://github.com/jimmyjetter27/laravel-ussd",
+    "keywords": ["Laravel", "USSD"],
     "require": {
         "php": "^8.0",
         "illuminate/support": "~8|~9|~10|~11"
@@ -47,9 +47,9 @@
         "format": "vendor/bin/php-cs-fixer fix"
     },
     "repositories": [
-    {
-        "type": "vcs",
-        "url": "https://github.com/jimmyjetter27/laravel-ussd"
-    }
-]
+        {
+            "type": "vcs",
+            "url": "https://github.com/jimmyjetter27/laravel-ussd"
+        }
+    ]
 }
